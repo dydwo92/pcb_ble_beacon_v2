@@ -1,0 +1,8 @@
+(module MIC5501-3.0YMT-TZ (layer F.Cu) (tedit 5F39F99A)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value MIC5501-3.0YMT-TZ (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
